@@ -9,7 +9,6 @@ credits = hmadrigal <hfmad@hotmail.com>
 tags = zeek plugin, file analyzer, grpc, protobuf, sqli
 depends =
   zeek >=5.0.8
-  zeek/mitrecnd/bro-http2 >=0.6.0
   # https://github.com/MITRECND/bro-http2 >=0.6.0
 
 [template]
